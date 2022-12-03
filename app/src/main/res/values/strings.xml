@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">peiGo Training</string>
+
+    <string name="vive_bacan">¡Vive bacán! 😎</string>
+    <string name="safe_money">Aquí tu plata siempre está a la mano y segura.</string>
+    <string name="sign_up_peigo">Regístrate en peiGo</string>
+    <string name="sign_in">Iniciar sesión</string>
+</resources>
